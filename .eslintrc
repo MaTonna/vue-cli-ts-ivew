@@ -1,0 +1,14 @@
+{
+  "env": {
+    "browser": true
+  },
+  "globals": {
+    "vue": true
+  },
+  "rules": {
+    "x-invalid-end-tag": false
+  },
+  "parserOptions": {
+    "ecmaVersion": 6
+  }
+}

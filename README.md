@@ -27,3 +27,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+这是一个简单的vue-cli配置项目，结合了ts和iview进行demo练习
